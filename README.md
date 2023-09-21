@@ -6,7 +6,7 @@
 
 ## Requirements
 
-- 64-bit Python `>= 3.8` but `< 3.10`
+- 64-bit Python `>= 3.8`
 - a NVIDIA graphic card with CUDA capability is strongly reccomended.
 
 ## Installation guide
