@@ -4,6 +4,9 @@
 
 `ICEpy4D` is a under active development.
 
+You can find the documentation of the code here: 
+[https://franioli.github.io/icepy4d/](https://franioli.github.io/icepy4d/). 
+
 ## Requirements
 
 - 64-bit Python `>= 3.8`
